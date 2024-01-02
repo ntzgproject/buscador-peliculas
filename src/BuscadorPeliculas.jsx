@@ -32,7 +32,7 @@ export const BuscadorPeliculas = () => {
 return (
     <div className="container">
 
-    <h1 className="title">Netflix trucho by yo"</h1>
+    <h1 className="title">Buscador de peliculas"</h1>
 
     <form onSubmit={handleSubmit}>
     <input
